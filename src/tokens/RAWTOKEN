@@ -1,0 +1,9 @@
+{
+  "chainId": 101,
+  "address": "782pcWmBhfaiMAvr9KqqcubNDCpq3bT3fwvMpJ6Es9H9",
+  "symbol": "RAW",
+  "name": "RAW",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/YOUR_USERNAME/token-list/main/assets/raw-logo.png",
+  "tags": ["sniper", "degen", "stealth"]
+}
